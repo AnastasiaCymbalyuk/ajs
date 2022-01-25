@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
-    "registry":"https://github.com/AnastasiaCymbalyuk/ajs"
+    "registry":"https://npm.pkg.github.com/"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
